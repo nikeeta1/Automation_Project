@@ -10,4 +10,5 @@
 ##Script ensures that HTTP Apache service is enabled
 ##archieves logs to S3
 
+#Modified the script added code for task 3
 #Owner -Nikeeta Singh
